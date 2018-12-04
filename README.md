@@ -26,3 +26,10 @@
     - [训练一个分类器](chapter1/4_cifar10_tutorial.ipynb)
     - [选读：数据并行处理(多GPU)](chapter1/5_data_parallel_tutorial.ipynb)
 4. [相关资源介绍](chapter1/1.4-pytorch-resource.md)
+
+### 第二章 基础
+#### 第一节 PyTorch 基础
+1. [张量](chapter2/2.1.1.pytorch-basics-tensor.ipynb)
+2. [自动求导](chapter2/2.1.2-pytorch-basics-autograd.ipynb)
+3. [神经网络包nn和优化器optm](chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
+4. [数据的加载和预处理](chapter2/2.1.4-pytorch-basics-data-lorder.ipynb)
