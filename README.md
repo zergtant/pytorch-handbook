@@ -1,4 +1,4 @@
-# PyTorch 中文手册 （pytorch handbook）
+# PyTorch 中文手册 （pytorch handbook）v0.4.1
 ![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 ## 书籍介绍
@@ -11,7 +11,7 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-目前PyTorch的版本为0.41,教程版本也相应为0.41，等待1.0正式发布后，本教程也会随之升级到1.0版
+今天PyTorch发布了1.0的正式版，此版本为0.4.1版，并且以后不会在更新
 
 ## 目录
 
