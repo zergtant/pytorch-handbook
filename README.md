@@ -12,7 +12,7 @@
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
 12月8日PyTorch已经发布1.0的稳定版。
-API的改动不是很大，本教程的兼容性正在测试，会保证能够在1.0中正常运行。
+API的改动不是很大，本教程已经通过测试，保证能够在1.0中正常运行。
 不过目前看影响不大，因为毕竟内容还不多。 v0.4.1已经新建了分支作为存档，并且该不会再进行更新了。
 
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
@@ -49,6 +49,9 @@ API的改动不是很大，本教程的兼容性正在测试，会保证能够�
 [神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)
 
 #### 第四节 卷积神经网络
+
+[卷积神经网络](chapter2/2.4-cnn.ipynb)
+
 #### 第五节 循环神经网络
 
 ### 第三章 实践

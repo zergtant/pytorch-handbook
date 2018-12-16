@@ -13,3 +13,6 @@
 
 ### 第三节 神经网络简介
 [神经网络简介](2.3-deep-learning-neural-network-introduction.ipynb)
+
+### 第四节 卷积神经网络
+[卷积神经网络](2.4-cnn.ipynb)
