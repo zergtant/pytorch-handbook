@@ -59,7 +59,7 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 ### 第三章 实践
 #### 第一节 logistic回归二元分类
 
-[logistic回归二元分类](3.1-logistic-regression.ipynb)
+[logistic回归二元分类](chapter3/3.1-logistic-regression.ipynb)
 
 #### 第二节 计算机视觉
 #### 第三节 自然语言处理
