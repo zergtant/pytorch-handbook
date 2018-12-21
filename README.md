@@ -61,7 +61,11 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 [logistic回归二元分类](chapter3/3.1-logistic-regression.ipynb)
 
-#### 第二节 计算机视觉
+
+#### 第二节 CNN:MNIST数据集手写数字识别
+
+[CNN:MNIST数据集手写数字识别](3.2-mnist.ipynb)
+
 #### 第三节 自然语言处理
 
 ### 第四章 提高
