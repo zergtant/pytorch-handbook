@@ -64,7 +64,7 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 #### 第二节 CNN:MNIST数据集手写数字识别
 
-[CNN:MNIST数据集手写数字识别](3.2-mnist.ipynb)
+[CNN:MNIST数据集手写数字识别](chapter3/3.2-mnist.ipynb)
 
 #### 第三节 自然语言处理
 
