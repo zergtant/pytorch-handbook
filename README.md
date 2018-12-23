@@ -66,7 +66,9 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 [CNN:MNIST数据集手写数字识别](chapter3/3.2-mnist.ipynb)
 
-#### 第三节 自然语言处理
+#### 第三节 RNN实例：通过Sin预测Cos
+
+[RNN实例：通过Sin预测Cos](chapter3/3.3-rnn.ipynb)
 
 ### 第四章 提高
 #### 第一节 可视化

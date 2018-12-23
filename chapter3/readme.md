@@ -5,5 +5,8 @@
 ### 3.1 logistic回归
 [logistic回归二元分类](3.1-logistic-regression.ipynb)
 
-### 3.1 CNN:MNIST数据集手写数字识别
+### 3.2 CNN:MNIST数据集手写数字识别
 [CNN:MNIST数据集手写数字识别](3.2-mnist.ipynb)
+
+### 3.3 CNN:MNIST数据集手写数字识别
+[RNN实例：通过Sin预测Cos](3.3-rnn.ipynb)
