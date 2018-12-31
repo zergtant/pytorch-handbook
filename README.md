@@ -88,3 +88,9 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 #### 第五节 协同过滤
 
 ### 第六章 资源
+
+## License
+
+![](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
+[本作品采用知识共享署名-非商业性使用-相同方式共享 3.0  中国大陆许可协议进行许可](http://creativecommons.org/licenses/by-nc-sa/3.0/cn)
