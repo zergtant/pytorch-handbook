@@ -9,3 +9,5 @@
 ## 第二节 可视化
 
 [visdom](4.2.1-visdom.ipynb)
+
+[tensorboardx](4.2.2-tensorboardx.ipynb)
