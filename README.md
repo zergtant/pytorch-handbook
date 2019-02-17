@@ -18,6 +18,12 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
+## 一些废话
+没想到春节刚过完就火了，元宵节后正常更新
+
+修改错别字请直接提issue或者fork后直接 pull request
+
+有问题也请直接提issue
 
 
 ## 目录
@@ -82,7 +88,7 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
 
 #### 第三节 fastai
-#### 第四节 数据处理技巧
+#### 第四节 训练的一些技巧
 #### 第五节 并行计算
 
 ### 第五章 应用
@@ -93,6 +99,14 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 #### 第五节 协同过滤
 
 ### 第六章 资源
+
+
+### 第七章 附录
+transforms的常用操作总结
+
+pytorch的损失函数总结
+
+pytorch的优化器总结
 
 ## License
 
