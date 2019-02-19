@@ -18,13 +18,25 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
-## 一些废话
-没想到春节刚过完就火了，元宵节后正常更新
+## QQ群
+群号：985896536
+
+扫描二维码
+
+![QR](PyTorch-Handbook-QR.png)
+
+
+或
+
+[点击链接加入群聊 『PyTorch Handbook 交流群』](https://jq.qq.com/?_wv=1027&k=5L28MSZ)
+
+## 问题
 
 修改错别字请直接提issue或者fork后直接 pull request
 
 有问题也请直接提issue
 
+感谢
 
 ## 目录
 
