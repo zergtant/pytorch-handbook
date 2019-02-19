@@ -28,7 +28,7 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 ## 目录
 
-### 第一章： pytorch入门
+### 第一章：PyTorch入门
 
 1. [PyTorch 简介](chapter1/1.1-pytorch-introduction.md)
 2. [PyTorch 环境搭建](chapter1/1.2-pytorch-installation.md)
