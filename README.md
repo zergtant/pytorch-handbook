@@ -30,14 +30,14 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 ### 第一章： pytorch入门
 
-1. [Pytorch 简介](chapter1/1.1-pytorch-introduction.md)
-2. [Pytorch环境搭建](chapter1/1.2-pytorch-installation.md)
-3. [PyTorch 深度学习:60分钟快速入门 （官方）](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)
+1. [PyTorch 简介](chapter1/1.1-pytorch-introduction.md)
+2. [PyTorch 环境搭建](chapter1/1.2-pytorch-installation.md)
+3. [PyTorch 深度学习：60分钟快速入门（官方）](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)
     - [张量](chapter1/1_tensor_tutorial.ipynb)
-    - [Autograd: 自动求导](chapter1/2_autograd_tutorial.ipynb) 
+    - [Autograd：自动求导](chapter1/2_autograd_tutorial.ipynb) 
     - [神经网络](chapter1/3_neural_networks_tutorial.ipynb)
     - [训练一个分类器](chapter1/4_cifar10_tutorial.ipynb)
-    - [选读：数据并行处理(多GPU)](chapter1/5_data_parallel_tutorial.ipynb)
+    - [选读：数据并行处理（多GPU）](chapter1/5_data_parallel_tutorial.ipynb)
 4. [相关资源介绍](chapter1/1.4-pytorch-resource.md)
 
 ### 第二章 基础
