@@ -30,9 +30,11 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 [点击链接加入群聊 『PyTorch Handbook 交流群』](https://jq.qq.com/?_wv=1027&k=5L28MSZ)
 
-## 问题
+## 说明
 
-修改错别字请直接提issue或者fork后直接 pull request
+修改错别字请直接提issue或PR
+
+PR时请注意版本
 
 有问题也请直接提issue
 
@@ -98,6 +100,8 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
 [tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+
+[可视化理解卷积神经网络](chapter4/4.2.2-tensorboardx.ipynb)
 
 #### 第三节 fastai
 #### 第四节 训练的一些技巧

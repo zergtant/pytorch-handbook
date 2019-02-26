@@ -11,3 +11,5 @@
 [visdom](4.2.1-visdom.ipynb)
 
 [tensorboardx](4.2.2-tensorboardx.ipynb)
+
+[可视化理解卷积神经网络](chapter4/4.2.2-tensorboardx.ipynb)
