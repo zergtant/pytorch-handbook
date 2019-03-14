@@ -20,12 +20,12 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
-## QQ群
+## QQ群 (已升级2000人大群)
 群号：985896536
 
 扫描二维码
 
-![QR](PyTorch-Handbook-QR.png)
+![QR](PyTorch-Handbook-QR.png) 
 
 
 或
