@@ -13,3 +13,6 @@
 [tensorboardx](4.2.2-tensorboardx.ipynb)
 
 [可视化理解卷积神经网络](4.2.3-cnn-visualizing.ipynb)
+
+## 第三节 Fast.ai
+[Fast.ai](4.3-fastai.ipynb)
