@@ -16,3 +16,6 @@
 
 ## 第三节 Fast.ai
 [Fast.ai](4.3-fastai.ipynb)
+
+## 第五节 多GPU并行训练
+[多GPU并行计算](4.5-multiply-gpu-parallel-training.ipynb)
