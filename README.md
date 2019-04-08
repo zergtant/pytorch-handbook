@@ -20,6 +20,7 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
+因为参加了某个99X的项目导致GitHub账号被限制，今天已解禁，感谢Github给我这个机会 我一定 ~~JOJO!我不做人啦~~ ，好好做人 
 ## QQ群 (已升级2000人大群)
 群号：985896536
 
@@ -108,7 +109,9 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 #### 第三节 Fast.ai
 [Fast.ai](chapter4/4.3-fastai.ipynb)
 #### 第四节 训练的一些技巧
-#### 第五节 并行计算
+
+#### 第五节 多GPU并行训练
+[多GPU并行计算](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
 
 ### 第五章 应用
 #### 第一节 Kaggle介绍
