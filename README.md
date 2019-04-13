@@ -20,7 +20,6 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
-因为参加了某个99X的项目导致GitHub账号被限制，今天已解禁，感谢Github给我这个机会 我一定 ~~JOJO!我不做人啦~~ ，好好做人 
 ## QQ群 (已升级2000人大群)
 群号：985896536
 
