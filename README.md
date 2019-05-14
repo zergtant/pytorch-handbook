@@ -17,17 +17,21 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 
 [主要改动中文说明](changelog-v1.1.md)
 
-## QQ群 (已升级2000人大群)
-群号：985896536
+## QQ 2群 
+
+群号：681980831
+
 
 扫描二维码
 
-![QR](PyTorch-Handbook-QR.png) 
+![QR](Pytorch-Handbook-2.png) 
 
 
 或
 
-[点击链接加入群聊 『PyTorch Handbook 交流群』](https://jq.qq.com/?_wv=1027&k=5L28MSZ)
+[点击链接加入群聊 『PyTorch Handbook 交流2群』](//shang.qq.com/wpa/qunwpa?idkey=27a51a46371d751795c3a6f0331065b53bfff96b81c27d1646451e21df5463c4)
+
+1群(985896536)已满，不要再加了：
 
 ## 说明
 
