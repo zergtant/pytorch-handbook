@@ -62,7 +62,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 1. [张量](chapter2/2.1.1.pytorch-basics-tensor.ipynb)
 2. [自动求导](chapter2/2.1.2-pytorch-basics-autograd.ipynb)
 3. [神经网络包nn和优化器optm](chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
-4. [数据的加载和预处理](chapter2/2.1.4-pytorch-basics-data-lorder.ipynb)
+4. [数据的加载和预处理](chapter2/2.1.4-pytorch-basics-data-loader.ipynb)
 #### 第二节 深度学习基础及数学原理
 
 [深度学习基础及数学原理](chapter2/2.2-deep-learning-basic-mathematics.ipynb)
