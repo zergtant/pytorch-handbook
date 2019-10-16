@@ -12,7 +12,10 @@
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
 2019.11.2 PyTorch已经发布1.3的稳定版。
-API的改动不是很大，目前正在测试1.1版本代码兼容性
+
+目前测试完前3章的代码可完全兼容1.3
+
+目前已知：第四章tensorboard有兼容性问题（解决中）
 
 
 
@@ -69,7 +72,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 
 #### 第三节 神经网络简介
 
-[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)
+[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)  注：本章在本地使用微软的Edge打开会崩溃，请使Chrome Firefox打开查看
 
 #### 第四节 卷积神经网络
 
