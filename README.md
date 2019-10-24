@@ -13,9 +13,8 @@
 
 2019.10.10 PyTorch已经发布1.3的稳定版。
 
-目前测试完前3章的代码可完全兼容1.3
+已经全部测试完毕 代码可完全兼容1.3
 
-目前已知：第四章tensorboard有兼容性问题（解决中）
 
 
 
@@ -105,7 +104,7 @@
 
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb) 
 
 [可视化理解卷积神经网络](chapter4/4.2.3-cnn-visualizing.ipynb)
 
