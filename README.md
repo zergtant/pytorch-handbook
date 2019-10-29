@@ -19,21 +19,21 @@
 
 
 
-## QQ 2群 
+## QQ 3群 
 
-群号：681980831
+群号：773681699
 
 
 扫描二维码
 
-![QR](Pytorch-Handbook-2.png) 
+![QR](Pytorch-Handbook-3.png) 
 
 
-或
+加群连接稍后添加
 
-[点击链接加入群聊 『PyTorch Handbook 交流2群』](//shang.qq.com/wpa/qunwpa?idkey=27a51a46371d751795c3a6f0331065b53bfff96b81c27d1646451e21df5463c4)
+1群(985896536)已满，2群(681980831)已满
 
-1群(985896536)已满，不要再加了：
+不要再加了
 
 ## 说明
 
