@@ -28,8 +28,7 @@
 
 ![QR](Pytorch-Handbook-3.png) 
 
-
-加群连接稍后添加
+[点击链接加入群聊 『PyTorch Handbook 交流3群』](//shang.qq.com/wpa/qunwpa?idkey=ee402d5f0e7732b2171e643d729177ce55ac404eafda5edd9b740d73fabe6a96)
 
 1群(985896536)已满，2群(681980831)已满
 
