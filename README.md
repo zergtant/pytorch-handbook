@@ -11,27 +11,28 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-2019.5.2 PyTorch已经发布1.1的稳定版。
-API的改动不是很大，目前正在测试1.1版本代码兼容性
+2020.1.16 PyTorch已经发布1.4的稳定版。
+
+Java bindings 被列入了支持列表，这几天准备出一个springboot的集成教程
 
 
-[主要改动中文说明](changelog-v1.1.md)
 
-## QQ 2群 
 
-群号：681980831
+
+## QQ 3群 
+
+群号：773681699
 
 
 扫描二维码
 
-![QR](Pytorch-Handbook-2.png) 
+![QR](Pytorch-Handbook-3.png) 
 
+[点击链接加入群聊 『PyTorch Handbook 交流3群』](//shang.qq.com/wpa/qunwpa?idkey=ee402d5f0e7732b2171e643d729177ce55ac404eafda5edd9b740d73fabe6a96)
 
-或
+1群(985896536)已满，2群(681980831)已满
 
-[点击链接加入群聊 『PyTorch Handbook 交流2群』](//shang.qq.com/wpa/qunwpa?idkey=27a51a46371d751795c3a6f0331065b53bfff96b81c27d1646451e21df5463c4)
-
-1群(985896536)已满，不要再加了：
+不要再加了
 
 ## 说明
 
@@ -62,14 +63,14 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 1. [张量](chapter2/2.1.1.pytorch-basics-tensor.ipynb)
 2. [自动求导](chapter2/2.1.2-pytorch-basics-autograd.ipynb)
 3. [神经网络包nn和优化器optm](chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
-4. [数据的加载和预处理](chapter2/2.1.4-pytorch-basics-data-lorder.ipynb)
+4. [数据的加载和预处理](chapter2/2.1.4-pytorch-basics-data-loader.ipynb)
 #### 第二节 深度学习基础及数学原理
 
 [深度学习基础及数学原理](chapter2/2.2-deep-learning-basic-mathematics.ipynb)
 
 #### 第三节 神经网络简介
 
-[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)
+[神经网络简介](chapter2/2.3-deep-learning-neural-network-introduction.ipynb)  注：本章在本地使用微软的Edge打开会崩溃，请使Chrome Firefox打开查看
 
 #### 第四节 卷积神经网络
 
@@ -102,7 +103,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb) 
 
 [可视化理解卷积神经网络](chapter4/4.2.3-cnn-visualizing.ipynb)
 
@@ -118,6 +119,7 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 [Kaggle介绍](chapter5/5.1-kaggle.md)
 #### 第二节 结构化数据
 #### 第三节 计算机视觉
+[Fashion MNIST 图像分类](chapter5/5.3-Fashion-MNIST.ipynb)
 #### 第四节 自然语言处理
 #### 第五节 协同过滤
 
@@ -125,6 +127,9 @@ API的改动不是很大，目前正在测试1.1版本代码兼容性
 
 
 ### 第七章 附录
+
+[树莓派编译安装 pytorch 1.4](pi/)
+
 transforms的常用操作总结
 
 pytorch的损失函数总结
