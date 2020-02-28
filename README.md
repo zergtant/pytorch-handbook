@@ -127,6 +127,9 @@ Java bindings 被列入了支持列表，这几天准备出一个springboot的�
 
 
 ### 第七章 附录
+
+[树莓派编译安装 pytorch 1.4](pi/)
+
 transforms的常用操作总结
 
 pytorch的损失函数总结
