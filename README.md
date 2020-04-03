@@ -125,6 +125,7 @@ Java bindings 被列入了支持列表，这几天准备出一个springboot的�
 #### 第一节 Kaggle介绍
 [Kaggle介绍](chapter5/5.1-kaggle.md)
 #### 第二节 结构化数据
+[Pytorch处理结构化数据](chapter5/5.2-Structured-Data.ipynb)
 #### 第三节 计算机视觉
 [Fashion MNIST 图像分类](chapter5/5.3-Fashion-MNIST.ipynb)
 #### 第四节 自然语言处理
