@@ -19,3 +19,6 @@
 
 ## 第五节 多GPU并行训练
 [多GPU并行计算](4.5-multiply-gpu-parallel-training.ipynb)
+
+## 补充翻译文章：在PyTorch中使用DistributedDataParallel进行多GPU分布式模型训练
+[在PyTorch中使用DistributedDataParallel进行多GPU分布式模型训练](distributeddataparallel)

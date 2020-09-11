@@ -10,13 +10,7 @@
 
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
-
-2020.1.16 PyTorch已经发布1.4的稳定版。
-
-Java bindings 被列入了支持列表，这几天准备出一个springboot的集成教程
-
-
-
+当前版本 1.6
 
 
 ## QQ 4群 
@@ -120,6 +114,10 @@ Java bindings 被列入了支持列表，这几天准备出一个springboot的�
 
 #### 第五节 多GPU并行训练
 [多GPU并行计算](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
+
+#### 补充翻译文章：在PyTorch中使用DistributedDataParallel进行多GPU分布式模型训练
+[在PyTorch中使用DistributedDataParallel进行多GPU分布式模型训练](chapter4/distributeddataparallel)
+
 
 ### 第五章 应用
 #### 第一节 Kaggle介绍
