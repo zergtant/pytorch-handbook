@@ -13,24 +13,23 @@
 当前版本 1.6
 
 
-## QQ 4群 
+## QQ 5群 
 
-群号：884017356
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PyTorch Handbook 交流4群" title="PyTorch Handbook 交流4群"></a>
+群号：894059877
 
 扫描二维码
 
-![QR](Pytorch-Handbook-4.png) 
+![QR](Pytorch-Handbook-5.png) 
 
-[点击链接加入群聊 『PyTorch Handbook 交流4群』](//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb)
+[点击链接加入群聊 『PyTorch Handbook 交流5群』](//jq.qq.com/?_wv=1027&k=HI1gtcVa)
 
-1群(985896536)已满，2群(681980831) 3群(773681699)已满
+1群(985896536)已满，2群(681980831) 3群(773681699)已满  4群(884017356)已满 
 
 不要再加了
 
 ## 新福利
 
-公众账号除干货文章以外，还提供 阿里 快手 头条 美团 滴滴 等大厂 内推信息，有兴趣的大家可以关注：
+公众账号每日分享干货文章
 ![weixin QR](deephub.jpg) 
 
 
