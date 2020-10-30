@@ -10,8 +10,8 @@
 
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
-当前版本 1.6
 
+[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.7
 
 ## QQ 5群 
 
