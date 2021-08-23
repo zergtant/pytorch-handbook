@@ -13,17 +13,17 @@
 
 [pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.7
 
-## QQ 5群 
+## QQ 6群 
 
-群号：894059877
+群号：760443051
 
-扫描二维码
 
-![QR](Pytorch-Handbook-5.png) 
+![QR](Pytorch-Handbook-6.png) 
 
-[点击链接加入群聊 『PyTorch Handbook 交流5群』](//jq.qq.com/?_wv=1027&k=HI1gtcVa)
+点击链接加入群聊【PyTorch Handbook 交流6群】：https://jq.qq.com/?_wv=1027&k=X4Ro6uWv
 
-1群(985896536)已满，2群(681980831) 3群(773681699)已满  4群(884017356)已满 
+
+1群(985896536)已满，2群(681980831) 3群(773681699)已满  4群(884017356)已满  5群(894059877)已满
 
 不要再加了
 
