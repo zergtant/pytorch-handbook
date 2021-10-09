@@ -11,7 +11,7 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.7
+[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.9
 
 ## QQ 6群 
 
@@ -140,6 +140,11 @@ transforms的常用操作总结
 pytorch的损失函数总结
 
 pytorch的优化器总结
+
+
+## Script
+script目录是我写的将ipynb转换成在线的版本和pdf文件的脚本，因为还在测试阶段，所以有什么问题请大家提出
+
 
 ## License
 
