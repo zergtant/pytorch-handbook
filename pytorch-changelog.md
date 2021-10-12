@@ -1,5 +1,36 @@
 # pytorch 大版本的主要更新总结
 
+## 1.9 2021-06-16
+torch.linalg,Complex Autograd 已经更新为（稳定版）
+
+torch.norm 已经弃用了，需要使用 torch.linalg.norm
+
+TorchVision库已经可以在IOS/Android上使用
+
+PyTorch Profiler（测试版）: 利用Kineto进行GPU分析，TensorBoard 进行可视化，PyTorch使用教程和文档都已经完善。
+
+TorchVision 0.10：添加了新的SSD和SSDLite模型
+
+TorchAudio 0.9.0：可在非Python 环境（包括C++、Android和iOS）中部署的wav2vec 2.0模型
+
+TorchText 0.10.0：添加了一个新的高性能Vocab模块
+
+## 1.8 2021-03-05
+支持一部分的AMD GPU（测试版）
+
+Complex Autograd （测试版）
+
+提高 NCCL 稳定性，包括异步错误/超时处理，RPC 分析
+
+torch.fft 已经更新为（稳定版），也就是可以在生产环境中使用了
+
+新增torch.linalg，为常见的线性代数运算提供与 NumPy 类似的支持（测试版）
+
+torch.fx （测试版）可以进行 Python 代码转换
+
+pipeline 并行化（测试版）可将 pipeline 并行化作为训练 loop 的一部分
+
+
 
 ## 1.7 2020-10-29
 支持CUDA 11：CUDA 9.2 - 11
