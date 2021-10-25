@@ -1,5 +1,5 @@
 # PyTorch 中文手册（pytorch handbook）
-![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
+![pytorch](pytorch-logo-dark.png)
 
 ## 书籍介绍
 这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。
@@ -11,14 +11,20 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.9
+[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.10（一点十）
+
+## 在线版本和PDF
+
+国内的镜像，速度很快，不会被墙：https://www.pytorch.wiki/
+
+PDF文件目前还没有找到好的生成方法，有熟悉这方面的朋友可以联系我，感激不尽
 
 ## QQ 6群 
 
 群号：760443051
 
 
-![QR](Pytorch-Handbook-6.png) 
+![QR](PyTorch-Handbook-6.png) 
 
 点击链接加入群聊【PyTorch Handbook 交流6群】：https://jq.qq.com/?_wv=1027&k=X4Ro6uWv
 

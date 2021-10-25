@@ -1,5 +1,16 @@
 # pytorch 大版本的主要更新总结
 
+## 1.10 2021-10-22
+支持Android NNAPI （测试版）
+
+torch.fx 已经变为稳定版，也就是说可以在生产上用了
+
+torch.special、nn.Module 参数化（稳定版）
+
+分布式训练的Remote Module、DDP Communication Hook、ZeroRedundancyOptimizer也都变为稳定版
+
+
+
 ## 1.9 2021-06-16
 torch.linalg,Complex Autograd 已经更新为（稳定版）
 
