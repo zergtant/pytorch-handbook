@@ -1,6 +1,21 @@
 # pytorch 大版本的主要更新总结
 
+## 1.11 2022-3-14
+
+更新了一个新库 TorchData 
+
+beta 版本 functorch 可组合函数转换。
+
+支持Python 3.10
+
 ## 1.10 2021-10-22
+
+本版其实最大的变化是交叉熵损失增加了label_smoothing，再也不用自己实现了
+
+```
+torch.nn.CrossEntropyLoss(weight=None, size_average=None, ignore_index=- 100, reduce=None, reduction='mean', label_smoothing=0.0)
+```
+
 支持Android NNAPI （测试版）
 
 torch.fx 已经变为稳定版，也就是说可以在生产上用了

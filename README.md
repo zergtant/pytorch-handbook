@@ -11,7 +11,7 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.10（一点十）
+[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.11
 
 ## 在线版本和PDF
 
@@ -135,6 +135,8 @@ PDF文件目前还没有找到好的生成方法，有熟悉这方面的朋友�
 #### 第五节 协同过滤
 
 ### 第六章 资源
+
+[torchaudio](torchaudio/intro.ipynb)
 
 
 ### 第七章 附录
