@@ -1,5 +1,5 @@
 # PyTorch 中文手册（pytorch handbook）
-![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
+![pytorch](pytorch-logo-dark.png)
 
 ## 书籍介绍
 这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。
@@ -10,27 +10,32 @@
 
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
-当前版本 1.6
+
+[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.11
+
+## 在线版本和PDF
+
+国内的镜像，速度很快，不会被墙：https://www.pytorch.wiki/
+
+PDF文件目前还没有找到好的生成方法，有熟悉这方面的朋友可以联系我，感激不尽
+
+## QQ 6群 
+
+群号：760443051
 
 
-## QQ 4群 
+![QR](PyTorch-Handbook-6.png) 
 
-群号：884017356
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PyTorch Handbook 交流4群" title="PyTorch Handbook 交流4群"></a>
+点击链接加入群聊【PyTorch Handbook 交流6群】：https://jq.qq.com/?_wv=1027&k=X4Ro6uWv
 
-扫描二维码
 
-![QR](Pytorch-Handbook-4.png) 
-
-[点击链接加入群聊 『PyTorch Handbook 交流4群』](//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb)
-
-1群(985896536)已满，2群(681980831) 3群(773681699)已满
+1群(985896536)已满，2群(681980831) 3群(773681699)已满  4群(884017356)已满  5群(894059877)已满
 
 不要再加了
 
 ## 新福利
 
-公众账号除干货文章以外，还提供 阿里 快手 头条 美团 滴滴 等大厂 内推信息，有兴趣的大家可以关注：
+公众账号每日分享干货文章
 ![weixin QR](deephub.jpg) 
 
 
@@ -131,6 +136,8 @@
 
 ### 第六章 资源
 
+[torchaudio](torchaudio/intro.ipynb)
+
 
 ### 第七章 附录
 
@@ -141,6 +148,11 @@ transforms的常用操作总结
 pytorch的损失函数总结
 
 pytorch的优化器总结
+
+
+## Script
+script目录是我写的将ipynb转换成在线的版本和pdf文件的脚本，因为还在测试阶段，所以有什么问题请大家提出
+
 
 ## License
 

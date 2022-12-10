@@ -1,0 +1,16 @@
+site_name: Pytorch中文手册
+site_url: https://handbook.pytoech.wiki/
+repo_url: https://github.com/zergtant/pytorch-handbook/
+site_author: zergtant
+site_description: pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 
+docs_dir: ..\
+site_dir: ..\..\html
+use_directory_urls: false
+theme: gitbook
+plugins:
+  - exclude:
+      glob:
+        - script/*
+        - changelog-v*
+        - "*.ipynb"
+        - "*.pdf"
